@@ -1,0 +1,1 @@
+[{"device":"Payment","Login":0,"Logout":0,"Menu":0,"Payment":1,"Search":0},{"device":"Menu","Login":0,"Logout":0,"Menu":1,"Payment":0,"Search":0},{"device":"Logout","Login":0,"Logout":1,"Menu":0,"Payment":0,"Search":0},{"device":"Login","Login":1,"Logout":0,"Menu":0,"Payment":0,"Search":0},{"device":"Search","Login":0,"Logout":0,"Menu":0,"Payment":0,"Search":1}]
